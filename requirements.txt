@@ -1,5 +1,6 @@
  streamlit
- pickle
+ scikit-learn
+ spotify
  pandas     
  nltk
- sklearn
+ 
