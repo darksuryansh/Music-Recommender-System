@@ -1,6 +1,6 @@
  streamlit
  scikit-learn
- spotify
+ spotipy
  pandas     
  nltk
  
