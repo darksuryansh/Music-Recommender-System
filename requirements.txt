@@ -1,0 +1,7 @@
+ streamlit
+ spotipy
+ spotipy.oauth2 
+ pickle
+ pandas     
+ nltk
+ sklearn
