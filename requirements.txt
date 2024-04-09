@@ -4,5 +4,5 @@
  spotipy
  pandas     
  nltk
- pickle-mixin==1.0.2
+ joblib
  numpy==1.21.4
