@@ -1,8 +1,9 @@
  streamlit
- streamlit-option-menu==0.3.2
+ streamlit-option-menu
  scikit-learn
  spotipy
  pandas     
  nltk
  joblib
- numpy==1.21.4
+ numpy
+
